@@ -1,4 +1,4 @@
 git config --global --unset user.name
 git config --global --unset user.email
-git config --list
+git config --global --list
 rundll32.exe keymgr.dll, KRShowKeyMgr
